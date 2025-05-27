@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+    <event>
+        <artist>Arctic Monkeys</artist>
+        <location>Papp László Sportaréna, Budapest</location>
+        <date>2025-07-15</date>
+        <price>18500.00HUF</price>
+        <address>Stefánia út 2, 1143 Budapest, Hungary</address>
+    </event>
+    <event>
+        <artist>Björk</artist>
+        <location>MVM Dome, Budapest</location>
+        <date>2025-08-02</date>
+        <price>$25.00</price>
+        <address>Dózsa György út 1, 1101 Budapest, Hungary</address>
+    </event>
+    <event>
+        <artist>Kendrick Lamar</artist>
+        <location>Budapest Park</location>
+        <date>2025-09-10</date>
+        <price>29.00€</price>
+        <address>Soroksári út 60, 1095 Budapest, Hungary</address>
+    </event>
+    <event>
+        <artist>Florence + The Machine</artist>
+        <location>Akvárium Klub</location>
+        <date>2025-07-30</date>
+        <price>$26.50</price>
+        <address>Erzsébet tér 12, 1051 Budapest, Hungary</address>
+    </event>
+    <event>
+        <artist>The National</artist>
+        <location>Barba Negra</location>
+        <date>2025-10-05</date>
+        <price>16800.00HUF</price>
+        <address>Neumann János utca 2, 1117 Budapest, Hungary</address>
+    </event>
+    <event>
+        <artist>Radiohead</artist>
+        <location>Puskás Aréna, Budapest</location>
+        <date>2025-11-12</date>
+        <price>€20.00</price>
+        <address>Dózsa György út 1, 1146 Budapest, Hungary</address>
+    </event>
+    <event>
+        <artist>Coldplay</artist>
+        <location>MVM Dome, Budapest</location>
+        <date>2025-09-01</date>
+        <price>20.00$</price>
+        <address>Dózsa György út 1, 1101 Budapest, Hungary</address>
+    </event>
+    <event>
+        <artist>Lorde</artist>
+        <location>A38 Hajó</location>
+        <date>2025-08-19</date>
+        <price>16400.00HUF</price>
+        <address>Petőfi híd, budai hídfő, 1117 Budapest, Hungary</address>
+    </event>
+    <event>
+        <artist>Imagine Dragons</artist>
+        <location>Papp László Sportaréna</location>
+        <date>2025-07-25</date>
+        <price>$39.00</price>
+        <address>Stefánia út 2, 1143 Budapest, Hungary</address>
+    </event>
+    <event>
+        <artist>Harry Styles</artist>
+        <location>Budapest Arena</location>
+        <date>2025-12-03</date>
+        <price>14000.00HUF</price>
+        <address>Stefánia út 2, 1143 Budapest, Hungary</address>
+    </event>
+    <event>
+        <artist>Foals</artist>
+        <location>Dürer Kert</location>
+        <date>2025-09-22</date>
+        <price>32.00€</price>
+        <address>Ajtósi Dürer sor 19-21, 1146 Budapest, Hungary</address>
+    </event>
+    <event>
+        <artist>Billie Eilish</artist>
+        <location>MVM Dome</location>
+        <date>2025-10-17</date>
+        <price>$43.00</price>
+        <address>Dózsa György út 1, 1101 Budapest, Hungary</address>
+    </event>
+</events>
