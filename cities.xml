@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cities>
+  <city id="1">
+    <name>London</name>
+    <country>United Kingdom</country>
+    <continent>Europe</continent>
+    <population>9002488</population>
+    <latitude>51.5074</latitude>
+    <longitude>-0.1278</longitude>
+  </city>
+  <city id="2">
+    <name>Paris</name>
+    <country>France</country>
+    <continent>Europe</continent>
+    <population>2161000</population>
+    <latitude>48.8566</latitude>
+    <longitude>2.3522</longitude>
+  </city>
+  <city id="3">
+    <name>Berlin</name>
+    <country>Germany</country>
+    <continent>Europe</continent>
+    <population>3669491</population>
+    <latitude>52.5200</latitude>
+    <longitude>13.4050</longitude>
+  </city>
+  <city id="4">
+    <name>Rome</name>
+    <country>Italy</country>
+    <continent>Europe</continent>
+    <population>2873494</population>
+    <latitude>41.9028</latitude>
+    <longitude>12.4964</longitude>
+  </city>
+  <city id="5">
+    <name>Madrid</name>
+    <country>Spain</country>
+    <continent>Europe</continent>
+    <population>3266126</population>
+    <latitude>40.4168</latitude>
+    <longitude>-3.7038</longitude>
+  </city>
+</cities>
