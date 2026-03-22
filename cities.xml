@@ -13,7 +13,6 @@
     <country>France</country>
     <continent>Europe</continent>
     <population>2161000</population>
-    <latitude>48.8566</latitude>
     <longitude>2.3522</longitude>
   </city>
   <city id="3">
@@ -22,15 +21,12 @@
     <continent>Europe</continent>
     <population>3669491</population>
     <latitude>52.5200</latitude>
-    <longitude>13.4050</longitude>
   </city>
   <city id="4">
     <name>Rome</name>
     <country>Italy</country>
     <continent>Europe</continent>
     <population>2873494</population>
-    <latitude>41.9028</latitude>
-    <longitude>12.4964</longitude>
   </city>
   <city id="5">
     <name>Madrid</name>
